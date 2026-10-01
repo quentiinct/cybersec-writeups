@@ -17,4 +17,7 @@ Writeups de labs et challenges en cybersécurité.
 *(à venir)*
 
 ## HackTheBox
-*(à venir)*
+
+### Starting Point
+- [01 — Fawn](hackthebox/01-Fawn.md)
+- [02 — Responder](hackthebox/02-Responder.md)
