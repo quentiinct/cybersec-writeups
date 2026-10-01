@@ -11,7 +11,7 @@ Writeups de labs et challenges en cybersécurité.
 *(à venir)*
 
 ### Authentication
-*(à venir)*
+- [01 — Username enumeration via response timing](portswigger/authentication/01-username-enumeration-via-response-timing.md)
 
 ## OverTheWire Bandit
 *(à venir)*
