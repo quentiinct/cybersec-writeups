@@ -114,7 +114,7 @@ tshark -r 0.pcap -Y ftp
 ```
 FTP  Request: USER nathan
 FTP  Response: 331 Please specify the password.
-FTP  Request: PASS H4TF0RM3!
+FTP  Request: PASS Buck3tH4TF0RM3!
 FTP  Response: 230 Login successful.
 ```
 

@@ -1,4 +1,4 @@
-# SQLi 01 — Retrieve Hidden Data
+# Fawn
 
 **Plateforme :** Hack The Box
 **Catégorie :** Network
