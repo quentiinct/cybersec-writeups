@@ -21,3 +21,6 @@ Writeups de labs et challenges en cybersécurité.
 ### Starting Point
 - [01 — Fawn](hackthebox/01-Fawn.md)
 - [02 — Responder](hackthebox/02-Responder.md)
+
+### Machines
+- [03 — Cap](hackthebox/03-Cap.md)
